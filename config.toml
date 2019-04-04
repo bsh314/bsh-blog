@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "BSH-Blog"
+avatar = "Avatar2019.jpg"
+theme = "m10c"
+[params]
+  author = "Bohdan Shcherbak"
+  description = "Software developer, electronics and mechanins enthusiast."
+[[params.social]]
+  name = "github"
+  url = "https://github.com/bsh314"
+[[params.social]]
+  name = "gitlab"
+  url = "https://gitlab.com/bsh314"
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/bohdan-shcherbak-05338370/"
+[params.style]
+  darkestColor = "#C60604"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#fff"
