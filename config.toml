@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://bsh-blog.netlify.com/"
 languageCode = "en-us"
 title = "BSH-Blog"
 avatar = "Avatar2019.jpg"
