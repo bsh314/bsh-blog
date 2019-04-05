@@ -5,7 +5,7 @@ avatar = "Avatar2019.jpg"
 theme = "m10c"
 [params]
   author = "Bohdan Shcherbak"
-  description = "Software developer, electronics and mechanins enthusiast."
+  description = "Software developer, electronics and mechanics enthusiast."
 [[params.social]]
   name = "github"
   url = "https://github.com/bsh314"
