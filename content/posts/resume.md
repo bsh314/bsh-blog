@@ -10,7 +10,7 @@ type = "post"
 
 ## About me
 
-I'm Ukranian, but since 2007 I lived in Seville. I was always interested in mountain sports, mechanical engineering and computer sciences, thats why I've started my career as software developer in 2013. Since the start until nowadays I've didn't stopped learning each day and improving my skills with the hope of continuing to create beautiful and performant applications that can help other people in their daily lives.
+I'm Ukranian, but since 2007 I lived in Seville. I was always interested in mountain sports, mechanical engineering and computer sciences, thats why I've started my career as software developer in 2013. Since the start until nowadays I haven’t stopped learning each day and improving my skills with the hope of continuing to create beautiful and performant applications that can help other people in their daily lives.
 
 ## Experience
 
