@@ -27,7 +27,49 @@ a {
   }
 }
 
-pre {
-  overflow: auto;
+
+.post-content {
+
+  code {
+    background: rgba(255,255,255, 0.2);
+    padding: 2px 5px;
+    border-radius: 3px;
+  }
+  pre {
+    background: rgba(255,255,255, 0.2);
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    padding: 1em;
+    overflow: auto;
+    code {
+      background: transparent;
+      padding: 0;
+    }
+  }
+  .highlight {
+    border-radius: 3px;
+    pre {
+      border: none!important;
+    }
+  }
+
+  img {
+    border-radius: 3px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* WebKit/Blink Browsers */
+  ::selection {
+    background: $darkest-color;
+    color: $primary-color;
+  }
+
+  /* Gecko Browsers */
+  ::-moz-selection {
+    background: $darkest-color;
+    color: $primary-color;
+  }
 }
+
 
