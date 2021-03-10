@@ -18,7 +18,7 @@ Why spend that additional time trying to remember that wierd key combination to 
 Cool, you got the idea!
 
 # Specifications
-- Custom firware available
+- Custom Arduino firmware for the start
 - ([QMK](https://qmk.fm/)) compatible
 - 24 programmable keys
 - 2 magnetic rotary encoders with well sized wheels
@@ -28,13 +28,6 @@ Cool, you got the idea!
 - Minimalist design and radelly available part list
 - Arduino Pro Micro ATmega32U4
 - Open Source & Open Hardware
-
-# Build guide
-Check my build guide for this design [here](https://blog.bshcherbak.com/posts/bsh-macro-pad-guide).
-
-# Disclaimer
-It will be possible to buy one from me, but MacroPad is an Open Source design and anyone can build it's own.
-As a developer I have limited free time and the amount of shipping is limited. Software upgrades will be posted in this blog.
 
 # More images
 
